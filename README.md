@@ -1,2 +1,2 @@
 # AI-Assistant
-Updating content soon
+Updating content soon.
